@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{7B4A589B-7CE0-FFBD-7584-4F42772E4FE7}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/StarTools/Assets/CoronaShader.shader">
+    <Files>
+      <File FileName="Assets/GoogleVR/Demos/Scripts/DemoInputManager.cs" Line="65" Column="45" />
+      <File FileName="Assets/PlanetVRManager.cs" Line="41" Column="25" />
+      <File FileName="Assets/GoogleVR/Demos/Scripts/HelloVR/HeadsetDemoManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/GoogleVR/Demos/Scripts/HelloVR/ObjectController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scrpts/PlanetRotationController.cs" Line="7" Column="5" />
+      <File FileName="Assets/StarTools/Assets/3DStarShader.shader" Line="31" Column="31" />
+      <File FileName="Assets/StarTools/Assets/CoronaShader.shader" Line="33" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
